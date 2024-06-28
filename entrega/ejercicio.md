@@ -1,4 +1,4 @@
-# Entrega de Nombre Apellido - NroEstudiante
+# Entrega de Ignacio Atrio - 337975
 
 En este directorio se encuentran los archivos correspondientes a la entrega.
 
